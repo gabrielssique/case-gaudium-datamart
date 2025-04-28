@@ -1,0 +1,21 @@
+# Ignorar checkpoints de notebooks
+.ipynb_checkpoints/
+
+# Ignorar arquivos temporários do Spark
+*.crc
+
+# Ignorar diretórios de cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar pastas de IDEs
+.vscode/
+.idea/
+
+# Ignorar arquivos ocultos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar logs e arquivos temporários
+*.log
