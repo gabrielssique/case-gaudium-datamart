@@ -1,5 +1,5 @@
 # 🚀 Desafio Técnico - Engenheiro de Dados Júnior (Gaudium)
-# Autor: Gabriel da Silva Siqueira
+## Autor: Gabriel da Silva Siqueira
 
 ## 🧾 Descrição
 Este projeto tem como objetivo aplicar técnicas de modelagem dimensional a partir de uma tabela única de dados brutos contendo informações de vendas, produtos e clientes.  
